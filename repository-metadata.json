@@ -12,5 +12,7 @@
     "authorized-qa"
   ],
   "visibility": "public",
-  "publication_status": "local-draft-only"
+  "publication_status": "published",
+  "owner": "DerovenR",
+  "url": "https://github.com/DerovenR/browserskill-capsolver-recovery"
 }

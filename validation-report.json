@@ -1,11 +1,13 @@
 {
   "slug": "browserskill-capsolver-recovery",
   "title": "CapSolver Recovery Skill for BrowserSkill",
-  "status": "validated-local-draft",
+  "status": "published-and-verified",
   "publication": {
-    "remote_created": false,
-    "pushed": false,
-    "nstbrowser_used": false
+    "remote_created": true,
+    "pushed": true,
+    "nstbrowser_used": true,
+    "owner": "DerovenR",
+    "url": "https://github.com/DerovenR/browserskill-capsolver-recovery"
   },
   "source_contract": {
     "browserskill_commit": "6b78211e79d2d14e82dbac560a2af81a2d6cace7",
