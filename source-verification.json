@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-08-20T00:00:00+08:00",
+  "browserskill": {
+    "repository": "https://github.com/Tencent/BrowserSkill",
+    "verified_commit": "6b78211e79d2d14e82dbac560a2af81a2d6cace7",
+    "license": "MIT",
+    "verified_contracts": [
+      "bsk session start/stop lifecycle",
+      "bsk observe and snapshot",
+      "bsk request-help arguments and outcomes",
+      "tool.request_help protocol fields"
+    ],
+    "extension_hook_found": false,
+    "integration_boundary": "companion Skill and public bsk CLI only"
+  },
+  "capsolver": {
+    "create_task": "https://docs.capsolver.com/en/guide/api-createtask/",
+    "get_task_result": "https://docs.capsolver.com/en/guide/api-gettaskresult/",
+    "api_errors": "https://docs.capsolver.com/en/guide/api-error/"
+  },
+  "runtime_validation": {
+    "real_browserskill_environment": false,
+    "real_api_call": false,
+    "offline_contract_tests": true
+  }
+}

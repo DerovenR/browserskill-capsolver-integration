@@ -1,0 +1,12 @@
+{
+  "record": "G09",
+  "entity": "Tencent/BrowserSkill",
+  "primary_keyword": "BrowserSkill CapSolver recovery",
+  "implementation_target": "companion Skill using the verified bsk CLI lifecycle and request-help fallback",
+  "non_goals": [
+    "modify or fork BrowserSkill",
+    "claim an extension plugin hook",
+    "claim an official partnership",
+    "perform a real API request"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "browserskill-capsolver-recovery",
+  "title": "CapSolver Recovery Skill for BrowserSkill",
+  "status": "validated-local-draft",
+  "publication": {
+    "remote_created": false,
+    "pushed": false,
+    "nstbrowser_used": false
+  },
+  "source_contract": {
+    "browserskill_commit": "6b78211e79d2d14e82dbac560a2af81a2d6cace7",
+    "license": "MIT",
+    "public_surface": "companion SKILL.md plus bsk CLI and request-help",
+    "third_party_extension_hook_claimed": false
+  },
+  "checks": {
+    "unit_tests": "9 passed",
+    "smoke_test": "passed with offline fixture",
+    "compile": "passed",
+    "repository_validator": "passed",
+    "readme_links": "passed, including redirects and soft-404 checks",
+    "utm": "passed: github / referral / repository-readme",
+    "forbidden_terms": "passed",
+    "secret_scan": "passed",
+    "responsible_use": "passed"
+  },
+  "runtime_limitations": [
+    "No real BrowserSkill session was executed.",
+    "No real CapSolver API request was executed.",
+    "Page-specific result application remains the authorized target owner's responsibility."
+  ]
+}

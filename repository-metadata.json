@@ -1,0 +1,16 @@
+{
+  "name": "browserskill-capsolver-recovery",
+  "title": "CapSolver Recovery Skill for BrowserSkill",
+  "description": "Python companion Skill for bounded recovery and human fallback in authorized BrowserSkill tasks.",
+  "topics": [
+    "browserskill",
+    "capsolver",
+    "ai-agent",
+    "browser-automation",
+    "python",
+    "human-in-the-loop",
+    "authorized-qa"
+  ],
+  "visibility": "public",
+  "publication_status": "local-draft-only"
+}
