@@ -1,0 +1,35 @@
+{
+  "slug": "browserskill-capsolver-integration",
+  "title": "CAPTCHA Handling for BrowserSkill with CapSolver",
+  "status": "validated-update-blocked-on-owner-profile",
+  "publication": {
+    "remote_created": false,
+    "pushed": false,
+    "nstbrowser_used": false,
+    "owner": "DerovenR",
+    "url": "https://github.com/DerovenR/browserskill-capsolver-integration"
+  },
+  "source_contract": {
+    "browserskill_commit": "f06a514bd2d265191737da976f638bdaa9589e7f",
+    "license": "MIT",
+    "public_surface": "companion SKILL.md plus bsk CLI and request-help",
+    "third_party_extension_hook_claimed": false
+  },
+  "checks": {
+    "unit_tests": "10 passed",
+    "smoke_test": "passed with offline fixture",
+    "compile": "passed",
+    "repository_validator": "passed",
+    "readme_links": "passed, including redirect and soft-404 checks",
+    "utm": "passed: github / referral / repository-readme",
+    "forbidden_terms": "passed with full-content and filename zero-match scan",
+    "secret_scan": "passed",
+    "responsible_use": "passed"
+  },
+  "runtime_limitations": [
+    "No real BrowserSkill session was executed.",
+    "No real CapSolver API request was executed.",
+    "Page-specific result application remains the authorized target owner's responsibility."
+  ],
+  "publication_blocker": "The only two running NSTbrowser profiles had no visible signed-in GitHub identity. The existing repository belongs to DerovenR, so it was not renamed or updated and no new remote was created."
+}

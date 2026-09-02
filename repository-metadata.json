@@ -1,0 +1,20 @@
+{
+  "name": "browserskill-capsolver-integration",
+  "slug": "browserskill-capsolver-integration",
+  "title": "CAPTCHA Handling for BrowserSkill with CapSolver",
+  "description": "Python companion for bounded CAPTCHA handling and human fallback in authorized BrowserSkill tasks.",
+  "topics": [
+    "browserskill",
+    "capsolver",
+    "ai-agent",
+    "browser-automation",
+    "python",
+    "human-in-the-loop",
+    "authorized-qa"
+  ],
+  "visibility": "public",
+  "publication_status": "validated-update",
+  "owner": "DerovenR",
+  "url": "https://github.com/DerovenR/browserskill-capsolver-integration",
+  "default_branch": "main"
+}

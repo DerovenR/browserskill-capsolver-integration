@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#0f766e"/></linearGradient></defs>
+  <rect width="1280" height="720" rx="28" fill="url(#g)"/>
+  <circle cx="1080" cy="160" r="190" fill="#5eead4" opacity=".16"/>
+  <text x="88" y="145" fill="#99f6e4" font-family="Arial,sans-serif" font-size="26">BROWSERSKILL INTEGRATION</text>
+  <text x="88" y="290" fill="white" font-family="Arial,sans-serif" font-weight="700" font-size="66">CAPTCHA Handling</text>
+  <text x="88" y="380" fill="white" font-family="Arial,sans-serif" font-weight="700" font-size="66">with CapSolver</text>
+  <text x="88" y="540" fill="#ccfbf1" font-family="Arial,sans-serif" font-size="28">Authorized · one attempt · human fallback</text>
+</svg>

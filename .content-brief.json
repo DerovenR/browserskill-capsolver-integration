@@ -1,0 +1,22 @@
+{
+  "record": "G09",
+  "entity": "Tencent/BrowserSkill",
+  "primary_keyword": "BrowserSkill CAPTCHA handling",
+  "scenario_keyword": "authorized browser task CAPTCHA handling",
+  "scenario_row": "G09",
+  "agent_keyword": "BrowserSkill CapSolver integration",
+  "agent_row": "G09",
+  "title": "CAPTCHA Handling for BrowserSkill with CapSolver",
+  "problem_statement": "An authorized BrowserSkill task needs a bounded way to handle a CAPTCHA checkpoint without losing session context.",
+  "audience": "developers building authorized BrowserSkill QA and RPA workflows",
+  "business_outcome": "preserve session context, enforce one attempt, and stop safely for human help",
+  "framework": "BrowserSkill",
+  "scenario_phrase": "authorized QA or RPA task",
+  "implementation_target": "companion integration using the verified bsk CLI lifecycle and request-help fallback",
+  "non_goals": [
+    "modify or fork BrowserSkill",
+    "claim an extension plugin hook",
+    "claim an official partnership",
+    "perform a real API request"
+  ]
+}
