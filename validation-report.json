@@ -1,11 +1,11 @@
 {
   "slug": "browserskill-capsolver-integration",
   "title": "CAPTCHA Handling for BrowserSkill with CapSolver",
-  "status": "validated-update-blocked-on-owner-profile",
+  "status": "published-and-verified",
   "publication": {
     "remote_created": false,
-    "pushed": false,
-    "nstbrowser_used": false,
+    "pushed": true,
+    "nstbrowser_used": true,
     "owner": "DerovenR",
     "url": "https://github.com/DerovenR/browserskill-capsolver-integration"
   },
@@ -31,5 +31,11 @@
     "No real CapSolver API request was executed.",
     "Page-specific result application remains the authorized target owner's responsibility."
   ],
-  "publication_blocker": "The only two running NSTbrowser profiles had no visible signed-in GitHub identity. The existing repository belongs to DerovenR, so it was not renamed or updated and no new remote was created."
+  "publication": {
+    "strategy": "renamed and updated the existing repository to preserve history",
+    "content_commit": "9776aa00ba3f7bc4eb270183ad6c6ad4f5303d65",
+    "visibility": "public",
+    "default_branch": "main",
+    "actions": "test workflow succeeded"
+  }
 }
